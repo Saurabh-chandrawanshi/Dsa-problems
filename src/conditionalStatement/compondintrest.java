@@ -1,3 +1,5 @@
+package conditionalStatement;
+
 import java.util.Scanner;
 
 public class compondintrest{
