@@ -1,4 +1,4 @@
-package basicArrayLevel1;
+package basicArrayLevel1.intermediate;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class ReverseInPlacesTwopoineter {
         for (int r = 0; r<arr.length;r++){
             arr[r]=sc.nextInt();
         }
-        for (int h=0 ; h<arr.length-1;h++){
+       while(i<j){
             int temp = arr[i];
             arr[i] =arr[j];
             arr[j]=temp;

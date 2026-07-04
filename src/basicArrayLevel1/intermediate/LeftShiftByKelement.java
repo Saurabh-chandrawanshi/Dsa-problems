@@ -1,4 +1,4 @@
-package basicArrayLevel1;
+package basicArrayLevel1.intermediate;
 
 import java.util.Scanner;
 

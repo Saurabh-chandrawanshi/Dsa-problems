@@ -1,4 +1,4 @@
-package basicArrayLevel1;
+package basicArrayLevel1.intermediate;
 
 import java.util.Scanner;
 
@@ -11,18 +11,17 @@ public class RotateRightByKelement {
         int k = sc.nextInt();
 
         int arr[] = new int[n];
-        k=k%arr.length;
         for(int i = 0; i<arr.length;i++){
             arr[i]=sc.nextInt();
         }
-        int i = arr.length-1;
-for (int h=1;h<k;h++) {
+//        int i = arr.length-1;
 
+       int  l=k%arr.length;
+         for (int h=0;h<l;h++) {
+             int temp = arr[arr.length - 1];
+             for (int j = arr.length-1; j > 0; j--) {
+        arr[j] = arr[j-1];
 
-    int temp = arr[arr.length - 1];
-    for (int j = 0; j < arr.length - 1; j++) {
-        arr[i] = arr[i - 1];
-        i--;
     }
     arr[0] = temp;
 
