@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LeetcodePractice/ArrayLeetcode/ArrayLeetcode.iml" filepath="$PROJECT_DIR$/LeetcodePractice/ArrayLeetcode/ArrayLeetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dsa practice session.iml" filepath="$PROJECT_DIR$/Dsa practice session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetcodePractice/ArrayLeetcode/Easy/Easy.iml" filepath="$PROJECT_DIR$/LeetcodePractice/ArrayLeetcode/Easy/Easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetcodePractice/ArrayLeetcode/Hard/Hard.iml" filepath="$PROJECT_DIR$/LeetcodePractice/ArrayLeetcode/Hard/Hard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetcodePractice/ArrayLeetcode/Intermadiate/Intermadiate.iml" filepath="$PROJECT_DIR$/LeetcodePractice/ArrayLeetcode/Intermadiate/Intermadiate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetcodePractice/LeetcodePractice.iml" filepath="$PROJECT_DIR$/LeetcodePractice/LeetcodePractice.iml" />
     </modules>
   </component>
 </project>
