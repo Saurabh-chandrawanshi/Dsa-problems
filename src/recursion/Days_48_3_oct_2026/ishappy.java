@@ -1,4 +1,4 @@
-package Days_48_3_oct_2026;
+package recursion.Days_48_3_oct_2026;
 
 import java.util.ArrayList;
 import java.util.Scanner;
